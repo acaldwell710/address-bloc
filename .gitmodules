@@ -1,0 +1,3 @@
+[submodule "address-bloc"]
+	path = address-bloc
+	url = https://github.com/acaldwell710/address-bloc.git
